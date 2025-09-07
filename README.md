@@ -3,9 +3,9 @@
 A real-time one-on-one chat application with instant messaging, typing indicators, and online/offline status.
 
 ## Tech Stack
-- **Frontend:** React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB, Socket.io
-- **Authentication:** JWT-based secure sessions
+- **Frontend:** Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, TypeScript, MongoDB, Socket.io
+- **Authentication:** JWT-based secure authentication
 
 ## Repositories
 - [Frontend Repository](https://github.com/Sayak109/ping_frontend)
